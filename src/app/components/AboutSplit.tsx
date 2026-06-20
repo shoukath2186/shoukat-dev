@@ -8,8 +8,8 @@ export default function AboutSplit() {
         <div className="grid md:grid-cols-12 gap-12 items-center">
           {/* Image Container */}
           <div className="md:col-span-5 flex justify-center">
-            <div className="relative rounded-none overflow-hidden border border-zinc-200 bg-zinc-50 p-1.5 max-w-xs hover:border-orange-500 transition-all duration-300">
-              <Image src="/about_illustration.png" alt="About illustration" width={400} height={400} className="w-full h-auto rounded-none object-cover transition-all duration-500" />
+            <div className="relative rounded-none overflow-hidden border border-zinc-200 bg-zinc-50 p-1.5 max-w-xs">
+              <Image src="/about_illustration.png" alt="About illustration" width={400} height={400} className="w-full h-auto rounded-none object-cover filter grayscale duration-500" />
             </div>
           </div>
 

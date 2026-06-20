@@ -118,7 +118,7 @@ export const projects: Project[] = [
         description:
             "An e-commerce platform built on Shopify for perfume sales. My primary responsibility was integrating secure payment processing and ensuring a seamless checkout experience for customers.",
         image: "/projects/b-perfume.png",
-        liveUrl: "",
+        liveUrl: "https://bperfume.in",
         githubUrl: "",
         tech: [
             "Shopify",

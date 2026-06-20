@@ -76,7 +76,7 @@ export default function AboutSection() {
                   src="/IMG-20240531-WA0014 (1).jpg"
                   alt="About Shoukath"
                   fill
-                  className="object-cover filter grayscale hover:grayscale-0 transition-all duration-700 hover:scale-105"
+                  className="object-cover filter grayscale transition-all duration-700 hover:scale-105"
                 />
               </div>
 
